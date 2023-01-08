@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    height: 100%;
+    background-image: url("../images/paperbackground.jpg");
+}
+
+#heading {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: "Lucida Console", monospace;
+    font-size: 45px;
+    color: black;
+}
+
+#footer {
+    margin: 50px;
+    position: relative;
+    bottom: 0;
+}
+
+#info {
+    margin-left: 50px;
+    margin-right: 50px;
+    display: block;
+    border: 5px solid black;
+    padding: 25px;
+    font-size: 24px;
+    font-family: "Times New Romans", Times, serif;
+}
+
+#list {
+    margin-left: 50px;
+    margin-right: 50px;
+    list-style-type: square;
+    border: 5px dotted black;
+    padding: 50px;
+    font-size: 24px;
+    font-family: "Times New Romans", Times, serif;
+}
+
+img {
+    display: inline;
+    margin: 50px;
+    width: 600px;
+    border-radius: 15px;
+}
+
+form {
+    padding: 50px 50px;
+    text-align: center;
+    font-family: sans-serif, arial;
+    font-size: 18px;
+}
+
+input {
+    background-color: #333333;
+    color: #cccccc;
+    padding: 15px 15px;
+    text-align: center;
+    display: inline-block;
+    font-family: sans-serif, arial;
+    font-size: 24px;
+}

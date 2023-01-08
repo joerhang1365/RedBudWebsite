@@ -1,0 +1,38 @@
+body {
+    margin: 5% 5% 5% 5%;
+}
+
+h1 {
+    font-family: "Lucida Console", monospace;
+    font-size: 45px;
+    color: black;
+}
+
+p {
+    display: inline-block;
+    font-size: 24px;
+    font-family: "Times New Romans", Times, serif;
+}
+
+ol {
+    display: block;
+    border: 5px dotted black;
+    padding: 50px;
+    font-size: 24px;
+    font-family: "Times New Romans", Times, serif;
+}
+
+img {
+    display: inline;
+    margin: 25px;
+}
+
+#img2, #img3 {
+    display: inline;
+}
+
+form {
+    padding: 2% 0%;
+    font-family: sans-serif, arial;
+    font-size: 12px;
+}
